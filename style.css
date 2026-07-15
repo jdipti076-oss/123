@@ -44,6 +44,7 @@ h1{
 }
 #circle{
     border-radius: 50%;
+    translate: 10px 20px;
 }
 #diamond{
     rotate:45deg;
